@@ -24,6 +24,7 @@ The repository is structured as follows:
 
 
 Heart-Disease-Assessment-Model/
+
 ├── data/
 
 │ ├── raw/ # Raw data files
