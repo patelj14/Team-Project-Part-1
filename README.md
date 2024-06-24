@@ -32,14 +32,6 @@ Team-Project-Part-1/
 
 ├── notebooks/                # Jupyter notebooks for exploration and analysis
 
-├── src/                      # Source code for the model
-
-│   ├── data_preprocessing.py
-
-│   ├── model_training.py
-
-│   └── model_evaluation.py
-
 ├── README.md                 # Project documentation
 
 
