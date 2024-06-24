@@ -90,3 +90,31 @@ Team-Project-Part-1/
 
 ### Model Validation
 - Evaluate the model on the testing set.
+
+
+# Rules of Engagement
+
+- **Communication**:
+  - Maintain clear and regular communication within the team.
+  - Use project management tools (e.g., Trello, Slack) to track progress and issues.
+  - Set up a Google Doc for collaborative project documentation.
+
+- **Data Handling**:
+  - Ensure data privacy and security at all times.
+  - Document all data cleaning and preprocessing steps.
+
+- **Coding Standards**:
+  - Follow consistent coding practices and style guidelines (e.g., PEP 8 for Python).
+  - Write clear, concise, and well-documented code.
+  - Use Google Colab for collaborative coding and experimentation.
+  - https://docs.google.com/document/d/1L2cROCImqeD0IeTs_kHh-K9OchutrMf_jFZsD74gYHM/edit
+  - https://colab.research.google.com/drive/1Bks9TTB_4FXTsdNo7EY4QEc96DPh5_nN?usp=sharing
+      
+
+- **Collaboration**:
+  - Use version control (e.g., Git) for all code and documentation.
+  - Conduct regular code reviews and provide constructive feedback.
+
+- **Model Development**:
+  - Start with simple models before moving to complex ones.
+
