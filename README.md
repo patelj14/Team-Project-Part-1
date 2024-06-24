@@ -22,23 +22,14 @@ The primary outcome of this project is to develop a predictive model that can ac
 ## Project Structure
 The repository is structured as follows:
 
-
 Heart-Disease-Assessment-Model/
-
 ├── data/
+│   ├── raw/                  # Raw data files
+│   └── processed/            # Processed data files
+├── notebooks/                # Jupyter notebooks for exploration and analysis
+├── src/                      # Source code for the model
+│   ├── data_preprocessing.py
+│   ├── model_training.py
+│   └── model_evaluation.py
+├── README.md                 # Project documentation
 
-│ ├── raw/ # Raw data files
-
-│ └── processed/ # Processed data files
-
-├── notebooks/ # Jupyter notebooks for exploration and analysis
-
-├── src/ # Source code for the model
-
-│ ├── data_preprocessing.py
-
-│ ├── model_training.py
-
-│ └── model_evaluation.py
-
-├── README.md # Project documentation
